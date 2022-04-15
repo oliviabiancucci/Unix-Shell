@@ -16,5 +16,4 @@ FUNCTIONS:
 -"cd" plus a directory will change the working directory
 
 ASSUMPTIONS: 
-My program assumes that the character limit of a command is 256 characters. It also assumes that a file name will not be longer
-than 50 characters.
+My program assumes that the character limit of a command is 256 characters. It also assumes that a file name will not be longer than 50 characters.
