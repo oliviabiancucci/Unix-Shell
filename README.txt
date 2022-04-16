@@ -2,8 +2,7 @@ CIS 3110 Operating Systems A1
 Olivia Biancucci
 
 DESCRIPTION + INSTALLATION:
-My program simulates a UNIX shell program in C that supports different commands. After downloading the "myShell.c" and "makefile"
-files, type "make" in the terminal to compile and then "./myShell" to execute.
+My program simulates a UNIX shell program in C that supports different commands. After downloading the "myShell.c" and "makefile" files, type "make" in the terminal to compile and then "./myShell" to execute.
 
 FUNCTIONS:
 -"exit" terminates the shell
