@@ -1,4 +1,3 @@
-CIS 3110 Operating Systems A1
 Olivia Biancucci
 
 DESCRIPTION + INSTALLATION:
